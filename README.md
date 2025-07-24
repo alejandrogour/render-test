@@ -16,23 +16,29 @@ This RESTful server enables creating, reading, updating, and deleting notes. Fea
 ## Installation
 ```bash
 npm install
+```
 
 ## Basic Commands
 - Development (with nodemon):
 ```bash
 npm run dev
+```
 - Production:
 ```bash
 npm start
+```
 - Lint (check code with ESLint):
 ```bash
 npm run lint
+```
 - Frontend build (watch package.json):
 ```bash
 npm run build:ui
+```
 or
 ```bash
 npm run deploy:full
+```
 
 ## Deployment
 App deployed on Render: https://dashboard.render.com/web/srv-d102ss7diees73fdi7qg/logs
