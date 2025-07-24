@@ -1,0 +1,18 @@
+# Notes Backend
+
+Backend for the Notes application from Fullstack Open course (Part 3). Built with Node.js, Express, and Mongoose to manage notes in MongoDB, including validations, error handling, and ESLint for code quality.
+
+## Description
+This RESTful server enables creating, reading, updating, and deleting notes. Features include:
+- React frontend integration (served in production from `/dist`).
+- Mongoose validations (content min 5 chars, required).
+- Error middleware (CastError, ValidationError).
+- Deployed on Render.
+
+## Requirements
+- Node.js v18+
+- MongoDB URI (set in `.env` for development).
+
+## Installation
+```bash
+npm install
