@@ -41,7 +41,7 @@ npm run deploy:full
 ```
 
 ## Deployment
-App deployed on Render: https://dashboard.render.com/web/srv-d102ss7diees73fdi7qg/logs
+App deployed on Render: https://render-test-i3xo.onrender.com
 
 ## License
 The University of Helsinki. Fullstack Open course 2025.
